@@ -1,6 +1,6 @@
 # Implementation of Segmentation AutoEncoder
 
-This implementation about segmentation autoencoder applying on cityscapes , based on model UNet .
+This implementation used UNet applying on cityscapes segmentation.
 
 ---
 
@@ -50,5 +50,5 @@ Since datasets are somehow huge and painfully slow in training ,I applied online
 
 <p></p>
 <center>
-<img src="img/seg.png" width="400" height="300"/>
+<img src="img/seg.png" width="700" height="300"/>
 </center>
